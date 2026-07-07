@@ -7,7 +7,7 @@
 - Keep each visible landing-page block in its own file under `includes/sections/`.
 - Keep presentation logic in `assets/css/styles.css`.
 - Keep interactive client-side behavior in `assets/js/main.js`.
-- Reuse existing image assets from the project root unless a new asset folder is introduced intentionally.
+- Reuse existing image assets from `assets/images/` unless a new asset folder is introduced intentionally.
 
 ## Editing guidance
 

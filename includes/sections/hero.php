@@ -15,7 +15,7 @@
     </div>
     <div class="hero-art hero-image-frame">
       <img
-        src="salon-guy-img-1.png"
+        src="assets/images/salon-guy-img-1.png"
         alt="Salon professional from Digi Carotene creative"
         class="hero-image" />
     </div>

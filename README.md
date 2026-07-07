@@ -9,7 +9,7 @@ This project has been reorganized from a single HTML file into a modular PHP lan
 - `includes/sections/` contains one file per landing page section.
 - `assets/css/styles.css` contains all page styling.
 - `assets/js/main.js` contains the reveal and carousel behavior.
-- `digi-carotene-logo.png` and `salon-guy-img-1.png` are used directly by the page.
+- `assets/images/` contains image assets such as the logo and hero image.
 
 ## Local usage
 
@@ -23,6 +23,6 @@ Then open [http://localhost:8000](http://localhost:8000).
 
 ## Notes
 
-- The hero illustration has been replaced with `salon-guy-img-1.png`.
+- The hero illustration has been replaced with `assets/images/salon-guy-img-1.png`.
 - The original file `Digi_Carotene_Salon_Growth_Partnership.html` is still present as a reference source.
 - Some case study values are still placeholder content and should be replaced before sharing externally.
