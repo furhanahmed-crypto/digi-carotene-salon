@@ -9,7 +9,7 @@
 - Keep interactive client-side behavior in `assets/js/main.js`.
 - Reuse existing image assets from `assets/images/` unless a new asset folder is introduced intentionally.
 
-## Editing guidance
+## Editing guidance 
 
 - Prefer structural markup in section partials and avoid inline styles where possible.
 - Preserve the existing visual design unless the task explicitly asks for redesign.
